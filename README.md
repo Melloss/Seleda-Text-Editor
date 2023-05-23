@@ -1,5 +1,5 @@
 # Seleda-Text-Editor
-This Text-Editor Used to open file
+This Text-Editor Used to Open, Edit and Save any file like Notpad
 
 # ![image](https://github.com/Melloss/Seleda-Text-Editor/assets/101984338/591d623f-e7cd-440c-b9f7-1535ade2871e)
 # ![image](https://github.com/Melloss/Seleda-Text-Editor/assets/101984338/a71496a7-1016-47e1-a6cb-b07e2a04bbe6)
